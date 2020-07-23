@@ -17,32 +17,15 @@ Love programming and computers 👨‍💻
 
 <h2 align="center">Skills</h3>
 <p align="center">
-  <img src='/skills/cpp.png' height='50px'>
-  <img src='/skills/c.png' height='50px'>
-  <img src='/skills/csharp.png' height='50px'>
-  <img src='/skills/typescript.png' height='50px'>
-  <img src='/skills/angular.png' height='50px'>
-  <img src='/skills/node.png' height='50px'>
-  <img src='/skills/rust.png' height='50px'>
-  <img src='/skills/dart.png' height='50px'>
-  <img src='/skills/flutter.png' height='50px'>
-  <img src='/skills/python.png' height='50px'>
-  <img src='/skills/java.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/cpp.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/c.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/csharp.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/typescript.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/angular.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/node.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/rust.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/dart.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/flutter.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/python.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/Alan5142/alan5142/master/skills/java.png' height='50px'>
 </p>
-
-
-
-<!--
-**Alan5142/alan5142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
