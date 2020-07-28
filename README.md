@@ -5,7 +5,7 @@ Love programming and computers 👨‍💻
 
 ### Find me!
 - 🐦 [Twitter](https://twitter.com/Alan5142)
-- 📧 [Email](alan5142@hotmail.com)
+- 📧 [Email](mailto:alan5142@hotmail.com)
 - 🔗 [Personal site](https://alan5142.github.io)
 
 <h2 align="center">Recent projects</h3>
