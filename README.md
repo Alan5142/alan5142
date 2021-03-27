@@ -3,6 +3,8 @@ Student @ [ITESO](https://iteso.mx/)
 
 Love programming and computers 👨‍💻
 
+Interested in computer graphics, game dev and networking 👀
+
 ### Find me!
 - 🐦 [Twitter](https://twitter.com/Alan5142)
 - 📧 [Email](mailto:alan5142@hotmail.com)
