@@ -10,9 +10,8 @@ Interested in computer graphics, game dev and networking 👀
 - 📧 [Email](mailto:alan5142@hotmail.com)
 - 🔗 [Personal site](https://alan5142.github.io)
 
-<h2 align="center">Recent projects</h3>
+<h2 align="center">Some projects</h3>
 
-* [FooEngine](https://github.com/Alan5142/FooEngine)
 * [nanoid-cpp](https://github.com/Alan5142/nanoid-cpp)
 * [Kingdom Madness](https://github.com/Alan5142/Kingdom-Madness)
 * [MaxOrg](https://github.com/Alan5142/MaxOrg)
