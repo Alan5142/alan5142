@@ -12,9 +12,9 @@ Interested in computer graphics, game dev and networking 👀
 
 <h2 align="center">Some projects</h3>
 
-* [nanoid-cpp](https://github.com/Alan5142/nanoid-cpp)
-* [Kingdom Madness](https://github.com/Alan5142/Kingdom-Madness)
-* [MaxOrg](https://github.com/Alan5142/MaxOrg)
+* [esp-create-project](https://github.com/Alan5142/esp-create-project): cli utility to create ESP32-IDF projects
+* [Kingdom Madness](https://github.com/Alan5142/Kingdom-Madness): simple game made with C and pdcurses
+* [MaxOrg](https://github.com/Alan5142/MaxOrg): project administration web app
 
 <h2 align="center">Skills</h3>
 <p align="center">
