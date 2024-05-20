@@ -1,5 +1,4 @@
 # Hi! 👀
-Student @ [ITESO](https://iteso.mx/)
 
 Love programming and computers 👨‍💻
 
